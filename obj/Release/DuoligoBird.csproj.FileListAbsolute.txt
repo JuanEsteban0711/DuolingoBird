@@ -1,0 +1,15 @@
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\bin\Release\DuoligoBird.exe.config
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\bin\Release\DuoligoBird.exe
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\bin\Release\DuoligoBird.pdb
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.Form1.resources
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\MSG_GameOver.MSG_Game_Over.resources
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.Properties.Resources.resources
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.csproj.GenerateResource.cache
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.exe
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.pdb
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\bin\Release\DuoligoBird.exe.manifest
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\bin\Release\DuoligoBird.application
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.exe.manifest
+C:\Users\esteb\OneDrive\Escritorio\Graficación\DuoligoBird_Final\DuoligoBird\obj\Release\DuoligoBird.application
